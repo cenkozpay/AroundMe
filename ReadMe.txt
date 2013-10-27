@@ -7,3 +7,5 @@ and small information about these places. When you turn your smart phone, the da
 you can get information about a place where you are looking into. 
 
 The location data is obtained from Google maps API and the data and pictures of the places is obtained from Wikipedia.
+
+The web site is on http://aroundme.azurewebsites.net
